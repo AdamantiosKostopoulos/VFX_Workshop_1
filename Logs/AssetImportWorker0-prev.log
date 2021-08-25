@@ -1,0 +1,344 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 7  (6.1.0) 64bit' Language: 'en' Physical Memory: 8083 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/Adam/UDEMY/Unity VFX/Vfx Graph/OrbExplosion_2020.3_URP_Start_II/OrbExplosion_2020.3_URP_II
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54482
+Successfully changed project path to: G:/Adam/UDEMY/Unity VFX/Vfx Graph/OrbExplosion_2020.3_URP_Start_II/OrbExplosion_2020.3_URP_II
+G:/Adam/UDEMY/Unity VFX/Vfx Graph/OrbExplosion_2020.3_URP_Start_II/OrbExplosion_2020.3_URP_II
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/Adam/UDEMY/Unity VFX/Vfx Graph/OrbExplosion_2020.3_URP_Start_II/OrbExplosion_2020.3_URP_II/Assets
+GfxDevice: creating device client; threaded=0
+d3d11: CreateDXGIFactory2(...) not found, fallbacking to CreateDXGIFactory1(...).
+d3d11: QueryInterface(IDXGIFactory5) failed (80004002).
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8077 MB
+    Driver:   26.21.14.4587
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002912 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.206 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.139599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.671 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.4 MB.
+System memory in use after: 127.6 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3233.
+Total: 2.705201 ms (FindLiveObjects: 0.369600 ms CreateObjectMapping: 0.133846 ms MarkObjects: 2.134466 ms  DeleteObjects: 0.065826 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/VFX/Prefabs/vfx_Explosion.prefab
+  artifactKey: Guid(b8c52cd9182c840458d8f635c25ba0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Explosion.prefab using Guid(b8c52cd9182c840458d8f635c25ba0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa24f49c5d88b188856c147379b1e809') in 0.677493 seconds
+  Import took 0.684703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.208129 seconds.
+  path: Assets/VFX/Prefabs/vfx_Explosion 1.prefab
+  artifactKey: Guid(af74e21b05ba820409da9f9897ca62a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Explosion 1.prefab using Guid(af74e21b05ba820409da9f9897ca62a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '954e1e2d6ead4cc7c375d576797cf2b8') in 0.032980 seconds
+  Import took 0.064774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.293661 seconds.
+  path: Assets/VFX/Prefabs/vfx_Explosion_v1.prefab
+  artifactKey: Guid(b8c52cd9182c840458d8f635c25ba0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Explosion_v1.prefab using Guid(b8c52cd9182c840458d8f635c25ba0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462098bb2b69d22b57f3064c2b18b33e') in 0.030927 seconds
+  Import took 0.054481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.664134 seconds.
+  path: Assets/VFX/Prefabs/vfx_Explosion_v2.prefab
+  artifactKey: Guid(af74e21b05ba820409da9f9897ca62a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Explosion_v2.prefab using Guid(af74e21b05ba820409da9f9897ca62a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1bdff400f592305067dbe2b73ed082') in 0.033442 seconds
+  Import took 0.061341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 777.873488 seconds.
+  path: Assets/VFX/Prefabs/vfx_Orb_Explosions.prefab
+  artifactKey: Guid(cfdae02041ce95e4fa7db8419f1f3d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Orb_Explosions.prefab using Guid(cfdae02041ce95e4fa7db8419f1f3d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1d2193e3118f6b564aeba467111b35') in 0.171344 seconds
+  Import took 0.178019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.275092 seconds.
+  path: Assets/VFX/Prefabs/vfx_Orb_Explosions 1.prefab
+  artifactKey: Guid(fb8e02f30a106bf49bacf884af45263d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Orb_Explosions 1.prefab using Guid(fb8e02f30a106bf49bacf884af45263d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ed660edaeeb2541dbe88f9570fab41') in 0.036841 seconds
+  Import took 0.052181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.278138 seconds.
+  path: Assets/VFX/Prefabs/vfx_Orb_Explosions_Purple.prefab
+  artifactKey: Guid(fb8e02f30a106bf49bacf884af45263d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Orb_Explosions_Purple.prefab using Guid(fb8e02f30a106bf49bacf884af45263d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2e00b77d38b6db2cbc2f5985295e12') in 0.033900 seconds
+  Import took 0.057731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.287630 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0242d79410c57e2cf1eccf31c1333052') in 0.005169 seconds
+  Import took 0.024842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1461.435888 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_GroundAoE.vfx
+  artifactKey: Guid(5abe2a41ebb6d3847ab80fe683572a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_GroundAoE.vfx using Guid(5abe2a41ebb6d3847ab80fe683572a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '382c727e8193d4f842876ee30bb61e7b') in 0.002286 seconds
+  Import took 0.006234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002139 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_GroundAoE.vfx
+  artifactKey: Guid(5abe2a41ebb6d3847ab80fe683572a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_GroundAoE.vfx using Guid(5abe2a41ebb6d3847ab80fe683572a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '382c727e8193d4f842876ee30bb61e7b') in 0.002121 seconds
+  Import took 0.006225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.328343 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_GroundAoE.vfx
+  artifactKey: Guid(5abe2a41ebb6d3847ab80fe683572a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_GroundAoE.vfx using Guid(5abe2a41ebb6d3847ab80fe683572a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682b94ef4d9d254866e3381445a3df61') in 0.002188 seconds
+  Import took 0.006215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.000177 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Textures/UICheckMark.png
+  artifactKey: Guid(b346b2a2df1d290438be3287b6419408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Textures/UICheckMark.png using Guid(b346b2a2df1d290438be3287b6419408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c3c31f7a30f8769809e8e5117785a3') in 0.128932 seconds
+  Import took 0.167064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.784361 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_GroundAoE.vfx
+  artifactKey: Guid(5abe2a41ebb6d3847ab80fe683572a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_GroundAoE.vfx using Guid(5abe2a41ebb6d3847ab80fe683572a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb3496fc6930112d39e36e0206dbe09') in 0.002386 seconds
+  Import took 0.006618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.615145 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_GroundAoE.vfx
+  artifactKey: Guid(5abe2a41ebb6d3847ab80fe683572a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_GroundAoE.vfx using Guid(5abe2a41ebb6d3847ab80fe683572a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d26e815372cb013426f5fa350d84907') in 0.002189 seconds
+  Import took 0.019033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.612074 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31655ac6a9f2d9b89dfef0a4967509fb') in 0.004431 seconds
+  Import took 0.008657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.626164 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2504c53a20f49d1308ff736936522403') in 0.004410 seconds
+  Import took 0.008787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.894089 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cde05e07a7f46f75dc64d824857460b') in 0.004343 seconds
+  Import took 0.024744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.702858 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c6decb47f203e517a1397d06e886af6') in 0.004426 seconds
+  Import took 0.008933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.928032 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f66e35411f90ce7ed805515729ecf01') in 0.004630 seconds
+  Import took 0.009176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.916041 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5623c715e36eae06995186bbfc7fffbb') in 0.004405 seconds
+  Import took 0.009110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.402123 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179bc726751c4d5b6a6c0acf993c361c') in 0.004367 seconds
+  Import took 0.008825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.605687 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53770f421ec56dab5ad8003d0f39f84c') in 0.004315 seconds
+  Import took 0.030617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1656.177650 seconds.
+  path: Assets/VFX/Prefabs/vfx_Explosion_v1.prefab
+  artifactKey: Guid(b8c52cd9182c840458d8f635c25ba0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Explosion_v1.prefab using Guid(b8c52cd9182c840458d8f635c25ba0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39575cc27250b945e1dd2d13d46bcd2d') in 0.030310 seconds
+  Import took 0.039665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/VFX/Prefabs/vfx_Explosion_v1.prefab
+  artifactKey: Guid(b8c52cd9182c840458d8f635c25ba0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Explosion_v1.prefab using Guid(b8c52cd9182c840458d8f635c25ba0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39575cc27250b945e1dd2d13d46bcd2d') in 0.045090 seconds
+  Import took 0.052630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.618203 seconds.
+  path: Assets/VFX/Prefabs/vfx_Explosion_v2.prefab
+  artifactKey: Guid(af74e21b05ba820409da9f9897ca62a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Explosion_v2.prefab using Guid(af74e21b05ba820409da9f9897ca62a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb331655db32d6e6b20778c9dd6c54de') in 0.046422 seconds
+  Import took 0.055412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.520125 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059423a2c34d434e27968dbceadbb48d') in 0.005395 seconds
+  Import took 0.011252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.825302 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06ffa535f297680417352ed2d684c55') in 0.004557 seconds
+  Import took 0.009192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.533117 seconds.
+  path: Assets/VFX/Prefabs/vfxgraph_Explosion.vfx
+  artifactKey: Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfxgraph_Explosion.vfx using Guid(d9350476c5319b44a880d1014c02f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d06b002f17d1ebccf1bff9c57a8b80') in 0.005425 seconds
+  Import took 0.010480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.935378 seconds.
+  path: Assets/VFX/Textures/GroundMark03.png
+  artifactKey: Guid(bf6e4c9cc177e21418f2303f412b0998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Textures/GroundMark03.png using Guid(bf6e4c9cc177e21418f2303f412b0998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f803c22d24dcb20b1e15399f33e3d9') in 0.012298 seconds
+  Import took 0.017267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017173 seconds.
+  path: Assets/VFX/Textures/GroundMark03.png
+  artifactKey: Guid(bf6e4c9cc177e21418f2303f412b0998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Textures/GroundMark03.png using Guid(bf6e4c9cc177e21418f2303f412b0998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f803c22d24dcb20b1e15399f33e3d9') in 0.006544 seconds
+  Import took 0.010670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.433151 seconds.
+  path: Assets/VFX/Textures/GroundMark03.png
+  artifactKey: Guid(bf6e4c9cc177e21418f2303f412b0998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Textures/GroundMark03.png using Guid(bf6e4c9cc177e21418f2303f412b0998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80cfed89bcb5e70b1cfbc7b990c34c54') in 0.005472 seconds
+  Import took 0.009647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.055519 seconds.
+  path: Assets/VFX/Textures/GroundMark03.png
+  artifactKey: Guid(bf6e4c9cc177e21418f2303f412b0998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Textures/GroundMark03.png using Guid(bf6e4c9cc177e21418f2303f412b0998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ba4bf5cef32b491c7419b661c57822') in 0.005941 seconds
+  Import took 0.010082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 682.914188 seconds.
+  path: Assets/VFX/Prefabs/vfx_Orb_Explosions 1.prefab
+  artifactKey: Guid(0bc174282cfc518499b79a87ea61917b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Orb_Explosions 1.prefab using Guid(0bc174282cfc518499b79a87ea61917b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16652295b22c4e199917cab3cc908c89') in 0.055130 seconds
+  Import took 0.063618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.184257 seconds.
+  path: Assets/VFX/Prefabs/vfx_Orb_Explosions_test.prefab
+  artifactKey: Guid(0bc174282cfc518499b79a87ea61917b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Prefabs/vfx_Orb_Explosions_test.prefab using Guid(0bc174282cfc518499b79a87ea61917b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903d09e2f1c8e96fc27784efe7239f68') in 0.040632 seconds
+  Import took 0.050024 seconds .
+
